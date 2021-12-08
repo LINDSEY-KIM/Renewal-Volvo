@@ -1,0 +1,35 @@
+
+.wrap{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+header, section, footer{
+    width: 100%;
+    float: left;
+    /* background-color: lightgray; */
+}
+
+.in_header, .container, .in_footer{
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container{
+    padding-top: 200px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,li{
+    list-style: none;
+}
+
+body{
+    overflow-x : hidden; 
+    background-color: #fdfdfd;
+}
+
